@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Habit_Tracker": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Program Files\\C# Development\\Projects\\Habit_Tracker\\Habit_Tracker"
+    }
+  }
+}
