@@ -1,4 +1,11 @@
-HabitTracker
+<h1 align="left">HabitTracker</h1>
 
-My first C# application developed using SQLite and DB Browser.
-Console based CRUD application to track how many glasses of water or any quantity. 
+###
+
+<p align="left">My first C# application developed using SQLite and DB Browser.</p>
+
+###
+
+<p align="left">Console based CRUD application to track how many glasses of water or any quantity.</p>
+
+###
