@@ -1,6 +1,7 @@
 <h1 align="left">HabitTracker</h1>
 
 ###
+###
 
 <p align="left">My first C# application developed using SQLite and DB Browser.</p>
 
@@ -19,5 +20,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
+
+###
+
+<h1 align="left">Given Requirements:</h1>
+
+###
+
+<h1 align="left">Features</h1>
+
+###
+
+<h1 align="left">Challenges</h1>
+
+###
+
+<h1 align="left">Lessons Learned</h1>
+
+###
+
+<h1 align="left">Areas to Improve</h1>
+
+###
+
+<h1 align="left">Resources Used</h1>
 
 ###
