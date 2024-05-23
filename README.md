@@ -1,7 +1,6 @@
 <h1 align="left">HabitTracker</h1>
 
 ###
-###
 
 <p align="left">My first C# application developed using SQLite and DB Browser.</p>
 
